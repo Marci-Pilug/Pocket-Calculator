@@ -1,0 +1,8 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Programs/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot multiplier_behav xil_defaultlib.multiplier -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-666] expression has 16 elements; expected 8 [C:/Users/marce/Marci_SEMESTRUL2/Marci PSN/Proiect/Proiect/Proiect.srcs/sources_1/new/multiplier.vhd:45]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit multiplier in library work failed.
